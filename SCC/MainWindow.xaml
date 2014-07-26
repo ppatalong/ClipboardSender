@@ -1,0 +1,12 @@
+﻿<Window x:Class="SCC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:SCC="clr-namespace:SCC"
+        Title="SSC" Height="93" Width="365" ResizeMode="NoResize">
+    <Window.InputBindings>
+        <KeyBinding Key="V" Modifiers="Control" Command="{x:Static SCC:Commands.PasteCommand}" CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" />
+    </Window.InputBindings>
+    <Grid>
+        <Label Content="Press CTRL+V to send clipboard to previous focused window." HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

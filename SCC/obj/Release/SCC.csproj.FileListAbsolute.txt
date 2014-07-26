@@ -1,0 +1,14 @@
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\bin\Release\SCC.exe.config
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\bin\Release\SCC.exe
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\bin\Release\SCC.pdb
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\MainWindow.g.cs
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\App.g.cs
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC_MarkupCompile.cache
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC_MarkupCompile.lref
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\MainWindow.baml
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC.g.resources
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC.Properties.Resources.resources
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC.csproj.GenerateResource.Cache
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC.exe
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC.pdb
+C:\Users\Pawel\documents\visual studio 2013\Projects\SCC\SCC\obj\Release\SCC.csprojResolveAssemblyReference.cache
